@@ -981,7 +981,7 @@ async def advantage_spell_chok(msg):
     g_s += await search_gagala(msg.text)
     gs_parsed = []
     if not g_s:
-        k = await msg.reply("I couldn't find any movie in that name.")
+        k = await msg.reply("𝐓𝐡𝐢𝐬 𝐌𝐨𝐯𝐢𝐞 𝐍𝐨𝐭 𝐅𝐨𝐮𝐧𝐝 🥺\n\n⭕️ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ Oɴ Gᴏᴏɢʟᴇ & Tʀʏ Aɢᴀɪɴ ☑️\n\n🇮🇳 Rᴇǫᴜᴇsᴛ Tᴏ Aᴅᴍɪɴ Fᴏʀ Uᴘʟᴏᴀᴅɪɴɢ 👉 @SUGGEST_MOVIE_BOT")
         await asyncio.sleep(10)
         await k.delete()
         return
@@ -1010,7 +1010,7 @@ async def advantage_spell_chok(msg):
     movielist += [(re.sub(r'(\-|\(|\)|_)', '', i, flags=re.IGNORECASE)).strip() for i in gs_parsed]
     movielist = list(dict.fromkeys(movielist))  # removing duplicates
     if not movielist:
-        k = await msg.reply("Hey Sona! The requested content is currently unavailable in our database, have some patience 🙂 - our great admin will upload it as soon as possible \n             **or**\nDiscuss issue with admin here 👉  <a href='https://t.me/Best_FriendsFor_Ever'>Discuss Here</a> ♥️ ")
+        k = await msg.reply("ʜᴇʏ sᴏɴᴀ! ᴍᴜᴊʜᴇ ɪs ɴᴀᴀᴍ sᴇ ᴋᴏɪ ᴍᴏᴠɪᴇ ɴʜɪ ᴍɪʟɪ, ᴍᴜᴊʜᴇ ʟɢᴛᴀ ʜᴀɪ ᴋɪ ᴀᴀᴘɴᴇ sᴘᴇʟʟɪɴɢ ɢᴀʟᴀᴛ ʟɪᴋʜ ᴅɪɪ ʜ 🤷‍♀️!\n ᴘʟᴇᴀsᴇ ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ᴏɴᴄᴇ ᴀɢᴀɪɴ 🤦‍♀️... ᴏʀ \n ᴅɪsᴄᴜss ʏᴏᴜʀ ᴘʀᴏʙʟᴇᴍ ᴡɪᴛʜ ᴏᴜʀ ᴀᴅᴍɪɴ ʜᴇʀᴇ 👉 @Best_FriendsFor_Ever")
         await asyncio.sleep(10)
         await k.delete()
         return
