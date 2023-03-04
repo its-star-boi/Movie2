@@ -550,7 +550,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🌹ᴜᴘᴅᴀᴛᴇs🌹', url='https://t.me/LazyDeveloper'),
+            InlineKeyboardButton('🌹ᴜᴘᴅᴀᴛᴇs🌹', url='https://t.me/star_x_network'),
         ], [
             InlineKeyboardButton('🥀ʜᴏᴍᴇ🥀', callback_data='start'),
             InlineKeyboardButton('🔷ᴄʟᴏsᴇ🔷', callback_data='close_data')
