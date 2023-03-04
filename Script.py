@@ -1,22 +1,22 @@
 class script(object):
-    START_TXT = """Hello {},
-Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪"""
-    LZTHMB_TEXT = """Hello {},
-Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
+    START_TXT = """𝐇𝐞𝐥𝐥𝐨 🔏{}, 
+𝐈 𝐂𝐚𝐧 𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐌𝐨𝐯𝐢𝐞𝐬 😍\n𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 😈\n𝐌𝐚𝐤𝐞 𝐀𝐝𝐦𝐢𝐧 𝐀𝐧𝐝 𝐄𝐧𝐉𝐨𝐲 𝐔𝐧𝐥𝐢𝐦𝐢𝐭𝐞𝐝 𝐌𝐨𝐯𝐢𝐞𝐬 🤭"""
+    LZTHMB_TEXT = """ʜᴇʟʟᴏ {},
+ɢʟᴀᴅ ᴛᴏ sᴇᴇ ʏᴏᴜ ʜᴇʀᴇ. ɪᴛ sᴇᴇᴍs ᴛʜᴀᴛ ʏᴏᴜ ʀᴇᴀʟʟʏ ʟᴏᴠᴇ <a href=https://t.me/its_star_boi >sᴛᴀʀ ʙᴏɪ </a> work.\n\n<b>ᴛʜᴜᴍʙɴᴀɪʟ ᴇxᴛʀᴀᴄᴛɪɴɢ</b> ғᴇᴀᴛᴜʀᴇ ᴡɪʟʟ ʙᴇ ᴀᴠᴀɪʟᴀʙʟᴇ sᴏᴏɴ, ᴘʟᴇᴀsᴇ ᴊᴏɪɴ<a href=https://t.me/Star_X_Network>Dev ᴄʜᴀɴɴᴇʟ🌹</a> ᴀɴᴅ sᴛᴀʏ ᴛᴜɴᴇᴅ ғᴏʀ ɴᴇxᴛ<a href=https://t.me/Star_X_Network>🥀ᴜᴘᴅᴀᴛᴇ🥀</a>.\n\n  🐞 ʀᴇᴘᴏʀᴛ ʙᴜɢ ʜᴇʀᴇ: <a href=http://t.me/Best_FriendsFor_Ever>sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a>
     """
     LZLINK_TEXT = """Hey {},
-Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/its_star_boi >sᴛᴀʀ ʙᴏɪ </a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/Star_X_Network>🌹ᴅᴇᴠ ᴄʜᴀɴɴᴇʟ🌹</a> and stay tuned for next <a href=https://t.me/Star_X_Network>🥀ᴜᴘᴅᴀᴛᴇ🥀</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/Best_FriendsFor_Ever>sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a>
     """
     DNT_TEXT = """Hey sweetie {},
-Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/DonateLazyDeveloper>Click here...</a>\n\nT❤️ hank you so much..
+Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/its_star_boi >sᴛᴀʀ ʙᴏɪ </a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=https://t.me/STAR_X_MOVIES/3>Click here...</a>\n\nT❤️ hank you so much..
     """
     REQ_AUTH_TEXT = """Hello {},
-\nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/LazyDeveloperSupport>LazyDeveloper Support</a>\n\n
+\nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/Best_FriendsFor_Ever>sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a>\n\n
     """
     HELP_TXT = """𝙷𝙴𝚈 {}
 Here is the help for my COMMANDS."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/LazyDeveloper>LazyDeveloper</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/its_star_boi>🌹sᴛᴀʀ ʙᴏɪ 🌹</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -24,10 +24,10 @@ Here is the help for my COMMANDS."""
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Lazy Princess is an open source project. 
-- Source - https://github.com/LazyDeveloperr/LazyPrincess  
+- Source - https://t.me/Best_FriendsFor_Ever 
 
 <b>DEVS:</b>
-- <a href=https://t.me/LazyDeveloper>LazyDeveloper</a>"""
+- <a href=https://t.me/its_star_boi>🌹sᴛᴀʀ boi🌹</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
@@ -52,7 +52,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/LazyDeveloper)</code>
+<code>[Button Text](buttonurl:https://t.me/Star_X_Network)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -79,7 +79,7 @@ Here is the help for my COMMANDS."""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Lazy Princess
+these are the extra features of Bot
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
